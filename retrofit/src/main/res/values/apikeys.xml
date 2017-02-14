@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="apikey">1f9892af51b3a831cb1b20238d7e2518</string>
+    <string name="apiReadAccessToken">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxZjk4OTJhZjUxYjNhODMxY2IxYjIwMjM4ZDdlMjUxOCIsInN1YiI6IjU4YTE5YzRmOTI1MTQxM2M2MjAwMzU4OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.L3fXLZwuTeKAcPgZToOyp6rPuXKidkPOJ0nQTKs_lzQ</string>
+
+</resources>

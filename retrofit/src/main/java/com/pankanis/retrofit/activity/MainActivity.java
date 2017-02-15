@@ -43,9 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     List<MovieModel> movieModels = response.body().getResults();
                     recyclerView.setAdapter(new MoviesAdapter(movieModels,R.layout.template_list_item_movie,MainActivity.this));
                 }
-
             }
-
             @Override
             public void onFailure(Call<MovieResponse> call, Throwable t) {
 
